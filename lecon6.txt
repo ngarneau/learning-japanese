@@ -1,0 +1,28 @@
+たべます:manger
+のみます:boire
+すいます:fumer
+みます:regarder
+ききます:écouter
+よみます:lire
+かきます:écrire
+かいます:acheter
+とります:prendre
+します:faire
+あいます:rencontrer
+ごはん:riz cuit
+あさごはん:déjeuner
+ひるごはん:diner
+ばんごはん:souper
+たまご:oeuf
+にく:viande
+さかな:poisson
+やさい:légume
+くだもの:fruit
+みず:eau
+おちゃ:thé
+こうちゃ:thé noir
+さけ:saké
+ビール:bière
+パン:pain
+ミルク:lait
+ジュース:jus

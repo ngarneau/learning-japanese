@@ -1,0 +1,42 @@
+おきます:se lever
+ねます:se coucher
+あたらきます:travailler
+やすみます:se reposer
+べんきょうします:étudier
+おわります:finir
+ぎんこう:banque
+ゆうびんきょく:bureau de poste
+としょかん:bibliothèque
+びじゅつかん:musé
+ごぜん:AM
+ごご:PM
+あさ:matin
+ひる:jour
+ばん:soir
+けさ:ce matin
+こんばん:ce soir
+やすみ:repos
+ひるやあすみ:repos du midi
+まいあさ:chaque matin
+まいばん:chaque soir
+まいにち:chaque jour
+なんようび:quel jour
+いま:maintenant
+ーじ:-heure
+ーふん:-minutes
+はん:demie
+なんじ:quelle heure
+なんぷん:combien de minutes
+おととい:avant-hier
+きのう:hier
+きょう:aujourd'hui
+あした:demain
+あさって:après-demain
+げつようび:lundi
+かようび:mardi
+すいようび:mercredi
+もくようび:jeudi
+きんようび:vendredi
+どようび:samedi
+にちようび:dimanche
+デパート:grand magasin

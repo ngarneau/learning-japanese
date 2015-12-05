@@ -1,0 +1,29 @@
+いきます:aller
+きます:venir
+かえります:rentrer chez soi
+がっこう:école
+えき:gare
+ひこうき:avion
+ふね:bateau
+でんしゃ:train
+ちかてつ:métro
+しんかんせん:shinkansen
+じてんしゃ:bicyclette
+ひと:personne
+ともだち:ami
+かれ:petit ami
+かのじょ: petite amie
+かずく:famille
+ひとりで:seul
+せんしゅう:semaine dernière
+こんしゅう:cette semaine
+らいしゅう:semaine prochaine
+せんげつ:mois dernier
+こんげつ:ce mois
+らいげつ:mois prochain
+きょねん:année dernière
+ことし:cette année
+らいねん:année prochaine
+スーパー:supermarché
+バス:bus
+タクシー:taxi
