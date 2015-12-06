@@ -12,7 +12,7 @@
 ひと:personne
 ともだち:ami
 かれ:petit ami
-かのじょ: petite amie
+かのじょ:petite amie
 かずく:famille
 ひとりで:seul
 せんしゅう:semaine dernière
