@@ -1,0 +1,13 @@
+いちがつ:janvier
+にがつ:février
+さんがつ:mars
+しがつ:avril
+ごがつ:mai
+ろくがつ:juin
+しちがつ:juillet
+はちがつ:août
+くがつ:septembre
+じゅうがつ:octobre
+じゅういちがつ:novembre
+じゅうにがつ:décembre
+なんがつ:quel mois
